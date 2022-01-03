@@ -17,4 +17,6 @@ The purpose of this project was to visualize the bacterial data for each volunte
 
 ![Image4](https://github.com/Anuradha0/BellyButton/blob/main/Images/Bubble%20Chart.png)
 
+5. Dashboard
+![Image4](https://github.com/Anuradha0/BellyButton/blob/main/Images/Dashboard%20image.png) 
 
