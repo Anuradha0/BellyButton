@@ -1,5 +1,5 @@
 ## Overview
-The purpose of this project was to create a web application dashboard using Javascript and Plotly to display belly button bacteria data from several different research volunteers.  The dashboard was to be interactive where the user could select the Test Subject ID number and the dashboard would display the results for that specific ID number.  The requested results to be displayed were:
+The purpose of this project was to visualize the bacterial data for each volunteer. Specifically, her volunteers should be able to identify the top 10 bacterial species in their belly buttons. The dashboard was to be interactive where the user could select the Test Subject ID number and the dashboard would display the results for that specific ID number.  The requested results to be displayed were:
 
 1. Demographic Information:
 ![Image1](https://github.com/Anuradha0/BellyButton/blob/main/Images/Demographic%20Info.png)
